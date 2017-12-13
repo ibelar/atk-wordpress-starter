@@ -39,9 +39,9 @@
 
 namespace atkstarter; //TODO rename to your namespace.
 
-$config['panel']['event'] =  [  'type'  => 'panel',
-                                'page'  => 'HelloAtkWp',
-                                'menu'  => 'HelloAtkWp',
+$config['panel']['atkwp'] =  [  'type'  => 'panel',
+                                'page'  => 'Hello AtkWp',
+                                'menu'  => 'Hello AtkWp',
                                 'slug'  => 'atkwp-index',
                                 'uses'  => __NAMESPACE__ . '\\panels\\HelloAtkWp',
                                 'capabilities' => 'manage_options',
