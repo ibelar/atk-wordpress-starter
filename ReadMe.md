@@ -10,6 +10,11 @@ This wordpress plugin is done using Agile Toolkit and the Agile Toolkit integrat
  - Run composer install;
  - Visit you Wordpress plugin page and activate it.
     - This starter plugin come with a default admin panel "HelloAtkWp.php" accesible in worpress admin once the plugin is activate.
- - Add Wordpress components, i.e. admin panels, widgets, shortcodes, dashboard widgets or meta box by setting proper configuration file in the configurations folder.
+ - Add Wordpress components via configuration file and setup each component UI using [Agile toolkit UI](http://agiletoolkit.org). Wordpress components can be:
+    - admin panels,
+    - widgets,
+    - dashboard widgets,
+    - shortcodes,
+    - meta box,
 
  More info on [atk-wordpress](http://github.com/ibelar/atk-wordpress)
