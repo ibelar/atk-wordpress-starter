@@ -1,0 +1,21 @@
+{
+  "description": "starter plugin for atk-wordpress",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alain Belair"
+    }
+  ],
+  "require": {
+    "ibelar/atk-wordpress": "^1.0"
+  },
+  "config": {
+    "autoloader-suffix": "atkstarter",
+    "prepend-autoloader": false
+  },
+  "autoload": {
+    "psr-4": {
+      "atkstarter\\" : "src/"
+    }
+  }
+}
