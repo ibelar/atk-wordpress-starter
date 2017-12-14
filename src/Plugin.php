@@ -1,8 +1,6 @@
 <?php
 /**
- * Created by abelair.
- * Date: 2017-12-13
- * Time: 1:36 PM
+ * The Plugin implementation.
  */
 
 namespace atkstarter;
