@@ -13,7 +13,7 @@
  *  'uses'            => (string)(Required) The widget class to use. The class must extends atkWp\components\WidgetComponent
  *						    Ex: 'uses' =>  __NAMESPACE__ . '\widgets\EventWidget'
  *
- *  'title'           => (string)(Required) A string that hold the title of the widget as it appear in the admin area.
+ *  'title'           => (string)(Required) A string that hold the title or name of the widget as it appear in the admin area.
  *
  *  'widget_ops'      => (array)(Optional)  An array that hold widget option as defined in Wordpress widget options.
  *
