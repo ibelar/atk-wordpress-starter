@@ -8,7 +8,7 @@ The project require [composer](https://getcomposer.org/) in order to install all
 
 ## Install
 
- - Download or clone this repository inside the plugins folder of your Wordpress installation;
+ - Download or clone this repository inside your Wordpress installation plugins folder;
  - Edit the composer.json file by updating the namespace to your own namespace;
  - Rename atk-starter.php file and edit content in order to update it to your own plugin name, namespace and description;
  - Run composer install;

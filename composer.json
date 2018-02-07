@@ -7,7 +7,7 @@
     }
   ],
   "require": {
-    "ibelar/atk-wordpress": "^1.1"
+    "ibelar/atk-wordpress": "^1.0"
   },
   "config": {
     "autoloader-suffix": "atkstarter",
